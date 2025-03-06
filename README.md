@@ -19,7 +19,7 @@ Batterie
 
 Capteur RGB 
 
-Technologies Utilisées
+## Technologies Utilisées
 
 Python (programmation du microcontrôleur)
 
